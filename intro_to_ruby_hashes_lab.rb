@@ -6,7 +6,7 @@ end
 def actor
   actor_name = {"name" => "Dwayne The Rock Johnson"}
   
-  actor_name 
+  actor_name [name]
 
 end
 
